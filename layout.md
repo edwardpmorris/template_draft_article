@@ -11,4 +11,5 @@ sectionTable_legends.tex
 sectionTableslabelta.tex
 sectionFigure_legend.tex
 sectionFigureslabelf.tex
+figures/zoo_sample_processing_TIKZ/zoo_sample_processing_TIKZ.png
 sectionReferenceslab.tex
